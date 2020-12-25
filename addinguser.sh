@@ -1,3 +1,6 @@
+#!/usr/bin/bash
+
+
 echo "---STRING parameter-----"
 
 sudo useradd -d /home/$username -m $username
